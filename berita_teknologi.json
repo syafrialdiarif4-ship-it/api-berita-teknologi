@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "judul": "Apple Rilis iPhone 17 dengan Chip A19 Pro Tercepat Sepanjang Sejarah",
+        "slug": "apple-rilis-iphone-17-dengan-chip-a19-pro-tercepat-sepanjang-sejarah",
+        "kategori": "teknologi",
+        "konten": "Apple resmi memperkenalkan iPhone 17 yang hadir dengan chip A19 Pro, menjadikannya smartphone dengan performa tertinggi yang pernah diproduksi Apple. Chip terbaru ini diklaim 40% lebih cepat dibanding generasi sebelumnya dan menghadirkan kemampuan AI on-device yang jauh lebih canggih. iPhone 17 juga mendukung layar ProMotion 120Hz yang lebih hemat daya, kamera utama 50MP dengan sensor baru, serta baterai yang tahan hingga 30 jam penggunaan. Peluncuran ini disambut antusias oleh para penggemar Apple di seluruh dunia.",
+        "gambar": "iphone17_a19pro.jpg",
+        "penulis_id": 1,
+        "views": 0,
+        "is_featured": 1,
+        "status": "published",
+        "published_at": "2026-06-01 08:00:00",
+        "created_at": "2026-06-01 08:00:00",
+        "updated_at": "2026-06-01 08:00:00"
+    },
+    {
+        "id": 2,
+        "judul": "Google DeepMind Luncurkan Model AI Gemini 3.0 yang Mampu Berpikir Seperti Manusia",
+        "slug": "google-deepmind-luncurkan-model-ai-gemini-3-mampu-berpikir-seperti-manusia",
+        "kategori": "teknologi",
+        "konten": "Google DeepMind mengumumkan Gemini 3.0, model kecerdasan buatan terbaru yang diklaim mampu melakukan penalaran multi-langkah secara mendalam layaknya manusia. Model ini mampu memproses teks, gambar, audio, dan video secara bersamaan dengan akurasi yang jauh melampaui generasi sebelumnya. Gemini 3.0 juga dilengkapi kemampuan coding otomatis, analisis ilmiah, serta dapat berinteraksi dalam lebih dari 100 bahasa termasuk Bahasa Indonesia. Google menyatakan model ini akan tersedia untuk developer melalui Google AI Studio mulai akhir Juni 2026.",
+        "gambar": "gemini3_deepmind.jpg",
+        "penulis_id": 1,
+        "views": 0,
+        "is_featured": 0,
+        "status": "published",
+        "published_at": "2026-06-05 10:30:00",
+        "created_at": "2026-06-05 10:30:00",
+        "updated_at": "2026-06-05 10:30:00"
+    },
+    {
+        "id": 3,
+        "judul": "Flutter 4.0 Resmi Dirilis, Hadirkan Fitur Hot UI dan Performa Native Penuh",
+        "slug": "flutter-4-resmi-dirilis-hadirkan-fitur-hot-ui-dan-performa-native-penuh",
+        "kategori": "teknologi",
+        "konten": "Google merilis Flutter 4.0 dengan sejumlah peningkatan besar yang dinantikan para developer mobile. Fitur unggulan terbaru adalah Hot UI, memungkinkan developer mengedit tampilan UI secara visual langsung dari IDE tanpa menulis kode manual. Selain itu, Flutter 4.0 kini mendukung kompilasi native penuh untuk platform Android, iOS, Web, dan Desktop dengan ukuran aplikasi yang lebih kecil hingga 30%. Dart 4.0 yang menyertainya juga menghadirkan null safety yang lebih ketat serta sintaks yang lebih ringkas. Komunitas Flutter Indonesia menyambut positif pembaruan besar ini.",
+        "gambar": "flutter4_release.jpg",
+        "penulis_id": 2,
+        "views": 0,
+        "is_featured": 1,
+        "status": "published",
+        "published_at": "2026-06-10 09:15:00",
+        "created_at": "2026-06-10 09:15:00",
+        "updated_at": "2026-06-10 09:15:00"
+    },
+    {
+        "id": 4,
+        "judul": "Indonesia Luncurkan Satelit Komunikasi Nusantara 3 untuk Perkuat Konektivitas Digital",
+        "slug": "indonesia-luncurkan-satelit-komunikasi-nusantara-3-perkuat-konektivitas-digital",
+        "kategori": "teknologi",
+        "konten": "Pemerintah Indonesia melalui Kementerian Komunikasi dan Digital berhasil meluncurkan Satelit Nusantara 3 dari Pusat Antariksa Kennedy Space Center, Florida, Amerika Serikat. Satelit ini dirancang khusus untuk memperkuat konektivitas internet di wilayah 3T (Terdepan, Terluar, dan Tertinggal) di seluruh Nusantara. Dengan kapasitas throughput sebesar 150 Gbps, Nusantara 3 mampu menjangkau lebih dari 50.000 desa yang sebelumnya tidak memiliki akses internet memadai. Peluncuran ini menjadi tonggak penting dalam mewujudkan cita-cita Indonesia sebagai negara digital terdepan di Asia Tenggara.",
+        "gambar": "satelit_nusantara3.jpg",
+        "penulis_id": 3,
+        "views": 0,
+        "is_featured": 0,
+        "status": "published",
+        "published_at": "2026-06-15 14:00:00",
+        "created_at": "2026-06-15 14:00:00",
+        "updated_at": "2026-06-15 14:00:00"
+    }
+]
